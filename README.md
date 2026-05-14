@@ -50,7 +50,7 @@ Adiciona ao carrinho;
 Escolhe entrega ou retirada;
 Finaliza a compra.
 
-Equipe do Projeto
+Equipe do Projeto:
 
 Leonardo Responsabilidade: Levantamento de requisitos.<br>
 Diogo	Responsabilidade: Desenvolvimento.<br>
